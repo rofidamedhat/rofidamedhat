@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rofida Medhat</h1>
-<h3 align="center">Flutter developer from Egypt</h3>
+<h3 align="center">Flutter developer </h3>
 
 - 🌱 I’m currently learning **more about Flutter**
 
